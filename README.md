@@ -9,3 +9,8 @@ lars-reflection-test> php .\index.php
 int(1)
 string(3) "int"
 ```
+
+**_Warning_**
+
+This does not support PHP 8 union types
+https://www.php.net/manual/en/class.reflectionuniontype.php
